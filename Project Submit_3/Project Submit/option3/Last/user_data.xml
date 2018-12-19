@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<?xml-stylesheet type="text/css" href="mystyle.css" ?>-->
+<user>
+   <person>
+    <name>shuvo</name>
+	<password>1234</password>
+   </person>
+   <person>
+    <name>nova</name>
+	<password>1234</password>
+   </person>
+   <person>
+    <name>walid</name>
+	<password>1234</password>
+   </person>
+</user>
